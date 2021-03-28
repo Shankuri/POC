@@ -30,19 +30,19 @@ $ mvn install
 $ mvn clean spring-boot:run
 
 # Login page
-![](C:\Users\asharma524\git\guestbook-login-poc\Login.PNG)
+![](https://github.com/Shankuri/POC/blob/master/Login.PNG)
 
 # Registration page
-![](C:\Users\asharma524\git\guestbook-login-poc\Registration.PNG)
+![](https://github.com/Shankuri/POC/blob/master/Registration.PNG)
 
 # Successful registration
-![](C:\Users\asharma524\git\guestbook-login-poc\successregistration.PNG)
+![](https://github.com/Shankuri/POC/blob/master/successregistration.PNG)
 
 # User HomePage
-![](C:\Users\asharma524\git\guestbook-login-poc\User_home_page.PNG)
+![](https://github.com/Shankuri/POC/blob/master/User_home_page.PNG)
 
 # Admin HomePage
-![](C:\Users\asharma524\git\guestbook-login-poc\Admin_Home_Page.PNG)
+![](https://github.com/Shankuri/POC/blob/master/Admin_Home_Page.PNG)
 
 #Admin Get List Of Users
-![](C:\Users\asharma524\git\guestbook-login-poc\All_User_List_Admin.PNG)
+![](https://github.com/Shankuri/POC/blob/master/User_home_page.PNG/All_User_List_Admin.PNG)
