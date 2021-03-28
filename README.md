@@ -45,4 +45,4 @@ $ mvn clean spring-boot:run
 ![](https://github.com/Shankuri/POC/blob/master/Admin_Home_Page.PNG)
 
 # Admin Get List Of Users
-![](https://github.com/Shankuri/POC/blob/master/User_home_page.PNG/All_User_List_Admin.PNG)
+![](https://github.com/Shankuri/POC/blob/master/All_User_List_Admin.PNG)
